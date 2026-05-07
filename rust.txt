@@ -1,0 +1,15 @@
+29.04.2026
+[+] Added Player Trail
+[+] Added Jump Effect
+[+] Added MRbypass
+[+] Added OLDbypass
+[+] Added Target Name
+[+] Added More Translations
+[+] Added Bear ESP
+[+] Added features to Safe Mode
+[+] Redesigned Misc Menu
+[/] Fixed Various Bugs
+[/] Fixed Look Line
+[/] Fixed Head Marker
+[/] Fixed Aim
+[/] Hidden all processes under system processes

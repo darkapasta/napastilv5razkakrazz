@@ -1,0 +1,11 @@
+10.04.2026
+[+] Added detailed HWID spoofing guide
+[+] Added recommendation to save original identifiers (System UUID, Motherboard HWID, Host Name)
+[+] Added IP change methods (VPN/proxy, router restart, ISP IP change)
+[+] Added GRINX64 usage for System UUID spoof ([Type 001] - System information -> UUID auto-generate -> apply to all)
+[+] Added GRINX64 usage for Motherboard HWID spoof ([Type 002] - Base Board/Module Information -> change serial number -> apply to all)
+[+] Added CCTools usage for Windows IDs, IE/WMP IDs, Host Name, computer owner, and unique system build spoof
+[+] Added HardDiskSerialNumberChanger usage for disk serial spoof (all drives)
+[+] Added TMAC usage for MAC address spoof (with 02 prefix)
+[+] Added final reminder to confirm order and leave review on FunPay
+[+] Added HWID Spoof for OldRust + MyRust
