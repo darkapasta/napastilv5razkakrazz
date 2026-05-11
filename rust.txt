@@ -1,4 +1,4 @@
-08.05.2026
+08.05.26/-------------------------------------
 [+] Added Small Stash to Prefab ESP
 [+] Added Anti-Cheat Screenshot Detector
 [+] Added Anti Screenshot
@@ -7,3 +7,9 @@
 [/] Updated Bypass (now universal)
 [/] Updated Spider (removed FlyHack kick)
 [/] Fixed .png Icons Loading
+11.05.26/-------------------------------------
+[+] Added Lua System
+[/] Removed imgui.ini on open
+[/] Fixed Spider on MagixRust
+[/] Fixed Loader Anti-OBS
+[/] Fixed Various Bugs
