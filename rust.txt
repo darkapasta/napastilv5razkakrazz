@@ -1,14 +1,4 @@
 29.05.26
-24.05.26/-------------------------------------
-[+] Updated Website Completely
-[+] Added Promo Code System
-[+] Added Invite Code System
-[+] Added Wallet System
-[+] Added Subscription Freeze
-[+] Added Case System
-[+] Added Marketplace System
-[+] Added Cloud Lua and CFG
-[+] Added Automatic Subscription Delivery on FunPay
 29.05.26/-------------------------------------
 [+] Added Debug Console by Bind
 [+] Added Startup Sound
