@@ -5,8 +5,6 @@
 [+] Added NeuralAI
 [/] Global optimization for Driver and External
 [/] Updated Bypass
-[/] Fixed Numerous Bugs
-[/] Improved Software Protection
 [-] Removed Head Marker
 [-] Removed Look Line
 [-] Removed Target Name
