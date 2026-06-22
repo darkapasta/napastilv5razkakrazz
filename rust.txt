@@ -10,3 +10,10 @@
 [-] Removed Head Marker
 [-] Removed Look Line
 [-] Removed Target Name
+22.06.26/-------------------------------------
+[+] Added Custom Loader Build Creation
+    - Full custom version_info
+    - File size inflation
+    - File name change
+[+] Added Devblog 265 Support
+[/] Accelerated Loader Startup
