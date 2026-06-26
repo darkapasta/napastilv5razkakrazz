@@ -1,13 +1,4 @@
-22.06.26
-29.05.26/-------------------------------------
-[+] Added Debug Console by Bind
-[+] Added Startup Sound
-[+] Added NeuralAI
-[/] Global optimization for Driver and External
-[/] Updated Bypass
-[-] Removed Head Marker
-[-] Removed Look Line
-[-] Removed Target Name
+27.06.26
 22.06.26/-------------------------------------
 [+] Added Custom Loader Build Creation
     - Full custom version_info
@@ -15,3 +6,10 @@
     - File name change
 [+] Added Devblog 265 Support
 [/] Accelerated Loader Startup
+27.06.26/-------------------------------------
+[+] Visually Redesigned Skeleton
+[+] Visually Redesigned Straw Hat
+[+] Updated Default CFG
+[/] Fixed ESP Disappearing Bug
+[/] Fixed Various Bugs
+[/] Optimized External
