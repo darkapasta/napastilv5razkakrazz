@@ -1,15 +1,16 @@
-27.06.26
-22.06.26/-------------------------------------
-[+] Added Custom Loader Build Creation
-    - Full custom version_info
-    - File size inflation
-    - File name change
-[+] Added Devblog 265 Support
-[/] Accelerated Loader Startup
-27.06.26/-------------------------------------
-[+] Visually Redesigned Skeleton
-[+] Visually Redesigned Straw Hat
-[+] Updated Default CFG
-[/] Fixed ESP Disappearing Bug
-[/] Fixed Various Bugs
-[/] Optimized External
+17.07.26
+17.07.26/-------------------------------------
+[+] Desync teleport on movement
+[+] Config Refresh button added
+[+] Show Bot ESP and Safe Mode
+[/] Menu heavily updated
+[/] Users System NEURAL logic
+[/] Watermark fully reworked
+[/] External bugs & bypass update
+[/] Loader settings and alpha card
+[~] Added menu opacity controls
+[~] Removed online display
+[~] Reworked menu text & UI
+[~] Updated waifu list & types
+[~] New flexible watermark info
+[-] Removed Arkan/Del/Flyhack
