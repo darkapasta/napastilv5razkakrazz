@@ -1,14 +1,11 @@
 25.07.26
 25.07.26/-------------------------------------
-[/] External (Global) — Changes:
 [~] Removed disk file creation, now fully clean
 [~] Improved bypass for ban evasion
 [~] Updated overlay
 [~] Fixed BNSAFE error, which could cause the software to fail or close on some systems
-[/] Loader — Changes:
 [~] Added more logs on error
 [~] Added a driver error log file
-[/] Site — Changes:
 [~] Added Alpha purchase option
 [~] Updated tab content: Download / Updates / Store / FAQ / Profile
 [~] FAQ now includes detailed error descriptions and fix methods
