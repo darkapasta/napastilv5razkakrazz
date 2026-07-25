@@ -1,12 +1,12 @@
 25.07.26
 25.07.26/-------------------------------------
-[~] Removed disk file creation, now fully clean
-[~] Improved bypass for ban evasion
-[~] Updated overlay
-[~] Fixed BNSAFE error, which could cause the software to fail or close on some systems
-[~] Added more logs on error
-[~] Added a driver error log file
-[~] Added Alpha purchase option
-[~] Updated tab content: Download / Updates / Store / FAQ / Profile
-[~] FAQ now includes detailed error descriptions and fix methods
-[~] Homepage updated with supported versions and servers, feature list, screenshots, and pricing
+[+] Added more logs on error
+[+] Added a driver error log file
+[+] Added Alpha purchase option
+[/] Improved bypass for ban evasion
+[/] Updated overlay
+[/] Fixed BNSAFE error, which could cause the software to fail or close on some systems
+[/] Updated tab content: Download / Updates / Store / FAQ / Profile
+[/] FAQ now includes detailed error descriptions and fix methods
+[/] Homepage updated with supported versions and servers, feature list, screenshots, and pricing
+[-] Removed disk file creation, now fully clean
