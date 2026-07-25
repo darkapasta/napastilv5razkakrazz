@@ -1,16 +1,15 @@
-17.07.26
-17.07.26/-------------------------------------
-[+] Desync teleport on movement
-[+] Config Refresh button added
-[+] Show Bot ESP and Safe Mode
-[/] Menu heavily updated
-[/] Users System NEURAL logic
-[/] Watermark fully reworked
-[/] External bugs & bypass update
-[/] Loader settings and alpha card
-[~] Added menu opacity controls
-[~] Removed online display
-[~] Reworked menu text & UI
-[~] Updated waifu list & types
-[~] New flexible watermark info
-[-] Removed Arkan/Del/Flyhack
+25.07.26
+25.07.26/-------------------------------------
+[/] External (Global) — Changes:
+[~] Removed disk file creation, now fully clean
+[~] Improved bypass for ban evasion
+[~] Updated overlay
+[~] Fixed BNSAFE error, which could cause the software to fail or close on some systems
+[/] Loader — Changes:
+[~] Added more logs on error
+[~] Added a driver error log file
+[/] Site — Changes:
+[~] Added Alpha purchase option
+[~] Updated tab content: Download / Updates / Store / FAQ / Profile
+[~] FAQ now includes detailed error descriptions and fix methods
+[~] Homepage updated with supported versions and servers, feature list, screenshots, and pricing
